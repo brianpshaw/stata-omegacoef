@@ -17,5 +17,5 @@ Shaw, B. P. (2021). Meeting assumptions in the estimation of reliability. The St
 
 ## Author
 
-Brian P. Shaw
+Brian P. Shaw  
 Indiana University
